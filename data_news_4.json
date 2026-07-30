@@ -1046,7 +1046,13 @@
         "https://vanphu.vn/wp-content/uploads/2026/07/140726-TB-111-VPI-ENG_0001.pdf",
         "https://vanphu.vn/wp-content/uploads/2026/07/260727_BC-12_BC-dinh-ky-thanh-toan-goc-lai-TPDN.pdf",
         "https://vanphu.vn/wp-content/uploads/2026/07/20260728-VPI-CBTT-123-Bao-cao-quan-tri-6-thang-nam-2026.pdf",
-        "https://vanphu.vn/wp-content/uploads/2026/07/20260728-VPI-CBTT-124-Ky-hop-dong-kiem-toan-nam-tai-chinh-2026-1.pdf"
+        "https://vanphu.vn/wp-content/uploads/2026/07/20260728-VPI-CBTT-124-Ky-hop-dong-kiem-toan-nam-tai-chinh-2026-1.pdf",
+        "https://vanphu.vn/wp-content/uploads/2026/07/Van-ban-giai-trinh-BCTC-Quy-2-nam-2026.pdf",
+        "https://vanphu.vn/wp-content/uploads/2026/07/BCTC-Rieng-Quy-2-nam-2026.pdf",
+        "https://vanphu.vn/wp-content/uploads/2026/07/BCTC-Rieng-Quy-2-nam-2026-ENG.pdf",
+        "https://vanphu.vn/wp-content/uploads/2026/07/BCTC-Hop-nhat-Quy-2-nam-2026.pdf",
+        "https://vanphu.vn/wp-content/uploads/2026/07/BCTC-Hop-nhat-Quy-2-nam-2026-ENG.pdf",
+        "https://vanphu.vn/wp-content/uploads/2026/07/20260730-VPI-CBTT-127-BCTC-Quy-2-nam-2026.pdf"
     ],
     "NLG": [
         "https://www.namlongvn.com/uploads/assets/files/Cong-bo-thong-tin/Cong-bo-thong-tin/20250212-nlg-cbtt-v-v-tai-lieu-lay-y-kien-co-dong-bang-van-ban-nam-2025-1.pdf",
@@ -1327,7 +1333,11 @@
         "https://vinaconex.com.vn/storage/20260427-vcg-bao-cao-tai-chinh-cong-ty-me-quy-1-2026.pdf",
         "https://vinaconex.com.vn/storage/20260427-vcg-giai-trinh-chenh-lech-bao-cao-hop-nhat-quy-1-2026.pdf",
         "https://vinaconex.com.vn/storage/20260427-vcg-bao-cao-tai-chinh-hop-nhat-quy-1-2026.pdf",
-        "https://vinaconex.com.vn/storage/tai-lieu-dhdcd-vb-cbtt-bb-nq.pdf"
+        "https://vinaconex.com.vn/storage/tai-lieu-dhdcd-vb-cbtt-bb-nq.pdf",
+        "https://vinaconex.com.vn/storage/2635-giai-trinh-bctc-rieng-quy-2-2026.pdf",
+        "https://vinaconex.com.vn/storage/bctc-rieng-q2-2026-compressed.pdf",
+        "https://vinaconex.com.vn/storage/2634-giai-trinh-bctc-hop-nhat-quy-2-2026.pdf",
+        "https://vinaconex.com.vn/storage/bctc-hop-nhat-q2-2026-compressed.pdf"
     ],
     "ABB": [
         "https://abbank.vn/thong-tin/cbtt-24h-ky-hop-dong-dich-vu-kiem-toan-nam-2025.html",
@@ -1611,6 +1621,8 @@
         "https://www.pvdrilling.com.vn/Data/Sites/1/media/qhcd/dai-hoi-dong-co-dong/2026/Apr/260421 NQ 09-2026-NQ-DHDCD vv Sua doi bo sung Dieu le PV Drilling_lan 23.pdf",
         "https://www.pvdrilling.com.vn/Data/Sites/1/media/qhcd/dai-hoi-dong-co-dong/2026/Apr/260421 NQ 08-2026-NQ-DHDCD vv Thong bao ty le so huu nuoc ngoai toi da.pdf",
         "https://www.pvdrilling.com.vn/Data/Sites/1/media/qhcd/bao-cao-tai-chinh/2026/20260429 - PVD - Bao cao tai chinh Hop nhat - Q1-26_Signed.pdf",
-        "https://www.pvdrilling.com.vn/Data/Sites/1/media/qhcd/bao-cao-tai-chinh/2026/20260429 - PVD - Bao cao tai chinh cty me - Q1-26_Signed.pdf"
+        "https://www.pvdrilling.com.vn/Data/Sites/1/media/qhcd/bao-cao-tai-chinh/2026/20260429 - PVD - Bao cao tai chinh cty me - Q1-26_Signed.pdf",
+        "https://www.pvdrilling.com.vn/Data/Sites/1/media/qhcd/bao-cao-tai-chinh/2026/20260730 - PVD - B%C3%A1o c%C3%A1o t%C3%A0i ch%C3%ADnh h%E1%BB%A3p nh%E1%BA%A5t Q2-2026_Signed.pdf",
+        "https://www.pvdrilling.com.vn/Data/Sites/1/media/qhcd/bao-cao-tai-chinh/2026/20260730 - PVD - B%C3%A1o c%C3%A1o t%C3%A0i ch%C3%ADnh ri%C3%AAng Q2-2026_Signed.pdf"
     ]
 }
